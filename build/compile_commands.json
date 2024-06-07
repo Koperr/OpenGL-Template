@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/build",
+  "command": "/usr/bin/c++  -I/home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/inc  -Wall -Werror -std=c++14 -g -o CMakeFiles/OpenGL-Template.dir/src/log.cpp.o -c /home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/src/log.cpp",
+  "file": "/home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/src/log.cpp",
+  "output": "CMakeFiles/OpenGL-Template.dir/src/log.cpp.o"
+},
+{
+  "directory": "/home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/build",
+  "command": "/usr/bin/c++  -I/home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/inc  -Wall -Werror -std=c++14 -g -o CMakeFiles/OpenGL-Template.dir/src/main.cpp.o -c /home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/src/main.cpp",
+  "file": "/home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/src/main.cpp",
+  "output": "CMakeFiles/OpenGL-Template.dir/src/main.cpp.o"
+}
+]

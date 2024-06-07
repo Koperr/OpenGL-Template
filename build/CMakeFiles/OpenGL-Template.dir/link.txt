@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -std=c++14 -g "CMakeFiles/OpenGL-Template.dir/src/log.cpp.o" "CMakeFiles/OpenGL-Template.dir/src/main.cpp.o" -o /home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/bin/Linux/Debug/OpenGL-Template  -lglfw3 -lGLEW -lGL -lX11 -lGLU -ldl 

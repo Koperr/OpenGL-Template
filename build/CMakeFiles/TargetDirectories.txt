@@ -1,0 +1,3 @@
+/home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/build/CMakeFiles/OpenGL-Template.dir
+/home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/build/CMakeFiles/edit_cache.dir
+/home/beza/Desktop/Cpp_nauka/OpenGL/OpenGL-Template/build/CMakeFiles/rebuild_cache.dir
