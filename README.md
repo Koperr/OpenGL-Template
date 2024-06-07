@@ -1,4 +1,5 @@
-### clone this repo:
+OpenGL template project, uses cmake
+### Clone this repo:
 ```
 gh repo clone Koperr/OpenGL-Template
 ```
