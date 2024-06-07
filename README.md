@@ -9,7 +9,7 @@ gh repo clone Koperr/OpenGL-Template
 ```
 chmod +x setupCMake.sh compile.sh run.sh
 ```
-**setup CMake**
+**setup cmake**
 ```
 ./setupCMake.sh
 ```
