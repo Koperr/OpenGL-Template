@@ -1,3 +1,7 @@
+note: this is my first ever created public repo, and first ever configured project in cmake.
+I installed Linux the day before creating this repo and first time ever created and used cmake and cripts.
+What am i trying to say? Sth may be wrong cuz im still learning
+Feedback is welcome, if necessary
 # OpenGL template project, uses cmake
 ### Clone this repo:
 ```
@@ -21,3 +25,5 @@ chmod +x setupCMake.sh compile.sh run.sh
 ```
 ./run.sh
 ```
+another note:
+if sth is wrong, delete `build` dir (```rm -rf build/```) and type commands showed above
